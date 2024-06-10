@@ -1,1 +1,2 @@
 # company-layoffs-covid
+This is an SQL project looking into the layoffs in companies worldwide following the COVID-19 pandemic and its effects on the economy. The project covers two things, data cleaning and data exploration of the dataset and covers data from March 2020 to March 2023. The dataset used is acquired from Kaggle which you can access through this link https://www.kaggle.com/datasets/swaptr/layoffs-2022
